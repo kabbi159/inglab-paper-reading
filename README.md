@@ -9,4 +9,4 @@ INGLab 논문 세미나에 대한 깃헙 레포입니다.
 
 
 ## Members
-[현지웅](https://github.com/kabbi159), [장수지](https://github.com/SUJI100418), [성창민](https://github.com/tjdckdals), [김현주](https://github.com/arensis-julia), [김은총](https://github.com/ianchongchong), 유태우, 조건희, [배수영](https://github.com/BaeSuyoung)
+[현지웅](https://github.com/kabbi159), [장수지](https://github.com/SUJI100418), [성창민](https://github.com/tjdckdals), [김현주](https://github.com/arensis-julia), [김은총](https://github.com/ianchongchong), 유태우, [조건희](https://github.com/Gunhee-Cho), [배수영](https://github.com/BaeSuyoung)
