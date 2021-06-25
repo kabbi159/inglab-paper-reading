@@ -9,7 +9,7 @@ INGLab 논문 세미나에 대한 깃헙 레포입니다.
 * __2021-07-01: to be updated__
   - to be updated
   - to be updated
-  - 발표자: 김은총, 발표자료: \[[slides]()\]
+  - 발표자: 김은총, 발표자료: \[[slides](https://github.com/kabbi159/inglab-paper-reading)\]
 
 
 ## Members
