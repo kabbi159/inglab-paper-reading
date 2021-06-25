@@ -6,6 +6,10 @@ INGLab 논문 세미나에 대한 깃헙 레포입니다.
   - Wang et al., ACL-IJCNLP Findings 2021  
   - Commonsense Geneartion  
   - 발표자: 현지웅, 발표자료: \[[slides](https://github.com/kabbi159/inglab-paper-reading/blob/main/presentations/20210624_jw_Retrieval%20Enhanced%20Model%20for%20Commonsense%20Generation.pdf)\]
+* __2021-07-01: to be updated__
+  - to be updated
+  - to be updated
+  - 발표자: 김은총, 발표자료: \[[slides]()\]
 
 
 ## Members
