@@ -13,7 +13,7 @@ INGLab 논문 세미나에 대한 깃헙 레포입니다.
 * __2021-07-08: Choose Your Own Adventure: Paired Suggestions in Collaborative Writing for Evaluating Story Generation Models \[[paper](https://aclanthology.org/2021.naacl-main.279.pdf)\]__
   - Elizabeth Clark and Noah A. Smith, NAACL 2021
   - Story Generation
-  - 발표자: 조건희, 발표자료: \[[slides](https://github.com/kabbi159/inglab-paper-reading)\]
+  - 발표자: 조건희, 발표자료: \[[slides](https://github.com/kabbi159/inglab-paper-reading/blob/main/presentations/20210708_gh_Choose%20Your%20Own%20Adventure%20Paired%20Suggestions%20in%20Collaborative%20Writing%20for%20Evaluating%20Story%20Generation%20Models.pdf)\]
 * __2021-07-15: SIRE: Separate Intra- and Inter-sentential Reasoning for Document-level Relation Extraction \[[paper](https://arxiv.org/abs/2106.01709)\]__
   - Zeng et al., ACL-IJCNLP Findings 2021
   - Document-level Relation Extraction
