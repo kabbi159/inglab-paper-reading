@@ -20,9 +20,9 @@ INGLab 논문 세미나에 대한 깃헙 레포입니다.
   - 발표자: 현지웅, 발표자료: \[[slides](https://github.com/kabbi159/inglab-paper-reading)\]  
 
 * __2021-07-22: Privacy-Preserving News Recommendation Model Learning \[[paper](https://arxiv.org/abs/2003.09592)\]__
-  - Wang et al., ACL-EMNLP Findings 2020  
-  - Commonsense Geneartion  
-  - 발표자: 배수영, 발표자료: \[[slides](https://github.com/kabbi159/inglab-paper-reading/blob/main/presentations/20210722_sy_Privacy-Preserving News Recommendation Model Learning.pdf)\]
+  - Qi et al., EMNLP Findings 2020  
+  - News Recommendation  
+  - 발표자: 배수영, 발표자료: \[[slides](https://github.com/kabbi159/inglab-paper-reading/blob/main/presentations/20210722_sy_Privacy-Preserving%20News%20Recommendation%20Model%20Learning.pdf)\]
 
 
 ## Members
