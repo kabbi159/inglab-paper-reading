@@ -33,7 +33,7 @@ INGLab 논문 세미나에 대한 깃헙 레포입니다.
 * __2021-08-05: Conditional Generation of Temporally-ordered Event Sequences \[[paper](https://arxiv.org/abs/2012.15786)\]__
   - Shih-Ting Lin, Nathanael Chambers, Greg Durrett, ACL 2021
   - Text Conditonal Generation, Temporal Ordering
-  - 발표자: 성창민, 발표자료: \[[slides](https://github.com/kabbi159/inglab-paper-reading)\]
+  - 발표자: 성창민, 발표자료: \[[slides](./presentations/20210805_cm_Conditional%20Generation%20of%20Temporally-ordered%20Event%20Sequences.pdf)\]
 
 * __2021-08-12: Revisiting Few-sample BERT Fine-tuning \[[paper](https://arxiv.org/abs/2006.05987)\]__
   - Zhang et al., ICLR 2021
