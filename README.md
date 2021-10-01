@@ -43,7 +43,7 @@ INGLab 논문 세미나에 대한 깃헙 레포입니다.
 * __2021-09-27: Self-Attention Attribution: Interpreting Information Interactions Inside Transformer \[[paper](https://arxiv.org/abs/2004.11207)\]__
   - Yaru al., AAAI 2021
   - Interpreting Transformer, BERT
-  - 발표자: 김은총, 발표자료: \[[slides](./presentations/20210927_ec_Self-Attention Attribution, Interpreting Information Interactions Inside Transformer.pdf)\]
+  - 발표자: 김은총, 발표자료: \[[slides](./presentations/20210927_ec_Self-Attention%20Attribution%2C%20Interpreting%20Information%20Interactions%20Inside%20Transformer.pdf)\]
 
 ## Members
 [현지웅](https://github.com/kabbi159), [장수지](https://github.com/SUJI100418), [성창민](https://github.com/tjdckdals), [김현주](https://github.com/arensis-julia), [김은총](https://github.com/ianchongchong), [유태우](https://github.com/mzyt3569), [조건희](https://github.com/Gunhee-Cho), [배수영](https://github.com/BaeSuyoung)
