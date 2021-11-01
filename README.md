@@ -48,7 +48,7 @@ INGLab 논문 세미나에 대한 깃헙 레포입니다.
 * __2021-11-01: Sentence Generation for Entity Description with Content-Plan Attention \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6439)\]__
   - Bayu Distiawan Trisedya, Jianzhong Qi, Rui Zhang, AAAI 2020
   - Data-to-text generation, content-planner
-  - 발표자: 배수영, 발표자료: \[[slides](./presentations/20211101_sy_Sentence Generation for Entity Description with Content-Plan Attention.pdf)\]
-  - 
+  - 발표자: 배수영, 발표자료: \[[slides](./presentations/20211101_sy_Sentence%20Generation%20for%20Entity%20Description%20with%20Content-Plan%20Attention.pdf)\]
+ 
 ## Members
 [현지웅](https://github.com/kabbi159), [장수지](https://github.com/SUJI100418), [성창민](https://github.com/tjdckdals), [김현주](https://github.com/arensis-julia), [김은총](https://github.com/ianchongchong), [유태우](https://github.com/mzyt3569), [조건희](https://github.com/Gunhee-Cho), [배수영](https://github.com/BaeSuyoung)
