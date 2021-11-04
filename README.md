@@ -45,10 +45,18 @@ INGLab 논문 세미나에 대한 깃헙 레포입니다.
   - Interpreting Transformer, BERT
   - 발표자: 김은총, 발표자료: \[[slides](./presentations/20210927_ec_Self-Attention%20Attribution%2C%20Interpreting%20Information%20Interactions%20Inside%20Transformer.pdf)\]
 
+* __2021-10-25: Plug-and-Blend: A Framework for Plug-and-Play Controllable Story Generation with Sketches \[[paper](https://arxiv.org/abs/2104.04039)\]__
+  - Zhiyu Lin and Mark Riedl, AIIDE 2021
+  - Controllable Story Generation, PPLM (Plug-and-Play Language Model), Interactive Storytelling
+  - 발표자: 현지웅, 발표자료: \[[slides](./presentations/20211025_jw_Plug-and-Blend%20A%20Framework%20for%20Plug-and-Play%20Controllable%20Story%20Generation%20with%20Sketches.pdf)\]
+
 * __2021-11-01: Sentence Generation for Entity Description with Content-Plan Attention \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6439)\]__
   - Bayu Distiawan Trisedya, Jianzhong Qi, Rui Zhang, AAAI 2020
   - Data-to-text generation, content-planner
   - 발표자: 배수영, 발표자료: \[[slides](./presentations/20211101_sy_Sentence%20Generation%20for%20Entity%20Description%20with%20Content-Plan%20Attention.pdf)\]
  
 ## Members
-[현지웅](https://github.com/kabbi159), [장수지](https://github.com/SUJI100418), [성창민](https://github.com/tjdckdals), [김현주](https://github.com/arensis-julia), [김은총](https://github.com/ianchongchong), [유태우](https://github.com/mzyt3569), [조건희](https://github.com/Gunhee-Cho), [배수영](https://github.com/BaeSuyoung)
+[현지웅](https://github.com/kabbi159), [김현주](https://github.com/arensis-julia), [김은총](https://github.com/ianchongchong), [유태우](https://github.com/mzyt3569), [조건희](https://github.com/Gunhee-Cho), [배수영](https://github.com/BaeSuyoung)
+
+## Previous Members
+[장수지](https://github.com/SUJI100418), [성창민](https://github.com/tjdckdals)
