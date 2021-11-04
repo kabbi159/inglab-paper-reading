@@ -39,8 +39,8 @@ INGLab 논문 세미나에 대한 깃헙 레포입니다.
   - Fine-tuning, Optimization, BERT
   - 발표자: 유태우, 발표자료: \[[slides](./presentations/20210812_tw_REVISITING%20FEWSAMPLE%20BERT%20FINETUNING.pdf)\]
 
-* __2021-09-14: All That's 'Human' Is Not Gold: Evaluating Human Evaluation of Generated Text \[[paper](https://aclanthology.org/2021.acl-long.565/)]__
-  - Clark et al., ACL 2021
+* __2021-09-13: All That's 'Human' Is Not Gold: Evaluating Human Evaluation of Generated Text \[[paper](https://aclanthology.org/2021.acl-long.565/)]__
+  - Clark et al., ACL-IJCNLP 2021
   - Evaluation, NLG
   - 발표자: 현지웅, 발표자료: \[[slides](./presentations/20210913_jw_All%20Thtat's%20'Human'%20Is%20Not%20Gold%20Evaluating%20Human%20Evaluation%20of%20Generated%20Text.pdf)\]
 
@@ -59,6 +59,11 @@ INGLab 논문 세미나에 대한 깃헙 레포입니다.
   - Bayu Distiawan Trisedya, Jianzhong Qi, Rui Zhang, AAAI 2020
   - Data-to-text generation, content-planner
   - 발표자: 배수영, 발표자료: \[[slides](./presentations/20211101_sy_Sentence%20Generation%20for%20Entity%20Description%20with%20Content-Plan%20Attention.pdf)\]
+
+* __2021-11-08: A Semantic-based Method for Unsupervised Commonsense Question Answering \[[paper](https://aclanthology.org/2021.acl-long.237/)\]__
+  - Niu et al., ACL-IJCNLP 2021
+  - CommonsenseQA
+  - 발표자: 강민우, 발표자료: \[[slides](./presentations/)\]
  
 ## Members
 [현지웅](https://github.com/kabbi159), [김현주](https://github.com/arensis-julia), [김은총](https://github.com/ianchongchong), [유태우](https://github.com/mzyt3569), [조건희](https://github.com/Gunhee-Cho), [배수영](https://github.com/BaeSuyoung)
