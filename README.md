@@ -17,7 +17,7 @@ INGLab 논문 세미나에 대한 깃헙 레포입니다.
 * __2021-07-15: SIRE: Separate Intra- and Inter-sentential Reasoning for Document-level Relation Extraction \[[paper](https://arxiv.org/abs/2106.01709)\]__
   - Zeng et al., ACL-IJCNLP Findings 2021
   - Document-level Relation Extraction
-  - 발표자: 현지웅, 발표자료: \[[slides](https://github.com/kabbi159/inglab-paper-reading)\]  
+  - 발표자: 현지웅, 발표자료: \[[slides](./presentations/20210714_jw_SIRE%20Separate%20Intra-%20and%20Inter-sentential%20Reasoning%20for%20Document-level%20Relation%20Extraction.pdf)\]  
 
 * __2021-07-22: Privacy-Preserving News Recommendation Model Learning \[[paper](https://arxiv.org/abs/2003.09592)\]__
   - Qi et al., EMNLP Findings 2020  
