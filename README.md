@@ -24,7 +24,6 @@ INGLab 논문 세미나에 대한 깃헙 레포입니다.
   - News Recommendation  
   - 발표자: 배수영, 발표자료: \[[slides](./presentations/20210722_sy_Privacy-Preserving%20News%20Recommendation%20Model%20Learning.pdf)\]
 
-
 * __2021-07-29: QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering \[[paper](https://arxiv.org/abs/2104.06378)\]__
   - Yasunaga et al., NAACL 2021
   - Question Answering, Graph Neural Network, Knowledge Graph
@@ -40,8 +39,14 @@ INGLab 논문 세미나에 대한 깃헙 레포입니다.
   - Fine-tuning, Optimization, BERT
   - 발표자: 유태우, 발표자료: \[[slides](./presentations/20210812_tw_REVISITING%20FEWSAMPLE%20BERT%20FINETUNING.pdf)\]
 
+* __2021-09-14: All That's 'Human' Is Not Gold: Evaluating Human Evaluation of Generated Text \[[paper](https://aclanthology.org/2021.acl-long.565/)]__
+  - Clark et al., ACL 2021
+  - Evaluation, NLG
+  - 발표자: 현지웅, 발표자료: \[[slides](./presentations/20210913_jw_All%20Thtat's%20'Human'%20Is%20Not%20Gold%20Evaluating%20Human%20Evaluation%20of%20Generated%20Text.pdf)\]
+
+
 * __2021-09-27: Self-Attention Attribution: Interpreting Information Interactions Inside Transformer \[[paper](https://arxiv.org/abs/2004.11207)\]__
-  - Yaru al., AAAI 2021
+  - Yaru et al., AAAI 2021
   - Interpreting Transformer, BERT
   - 발표자: 김은총, 발표자료: \[[slides](./presentations/20210927_ec_Self-Attention%20Attribution%2C%20Interpreting%20Information%20Interactions%20Inside%20Transformer.pdf)\]
 
