@@ -69,6 +69,11 @@ INGLab 논문 세미나에 대한 깃헙 레포입니다.
   - Cristian-Paul Bara, Sky CH-Wang, and Joyce Chai, EMNLP 2021
   - Computational Modeling, Collaborative Tasks, Real-world scenario
   - 발표자: 김현주, 발표자료: \[[slides](./presentations/)\]
+
+* __2021-12-06: FairyTailor: A Multimodal Generative Framework for Storytelling \[[paper](https://arxiv.org/abs/2108.04324)\]__
+  - Eden Bensaid, Mauro Martino, Benjamin Hoover, Hendrik Strobelt
+  - Automated Story Generation, Natural Language Generation, Multimodality, Human-in-the-loop
+  - 발표자: 유태우, 발표자료: \[[slides](./presentations/20211206_tw_FAIRYTALIOR_A%20Multimodal%20Generative%20Framework%20for%20Storytelling.pdf)\]
  
 ## Members
 [현지웅](https://github.com/kabbi159), [김현주](https://github.com/arensis-julia), [김은총](https://github.com/ianchongchong), [유태우](https://github.com/mzyt3569), [조건희](https://github.com/Gunhee-Cho), [배수영](https://github.com/BaeSuyoung)
