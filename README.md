@@ -74,6 +74,11 @@ INGLab 논문 세미나에 대한 깃헙 레포입니다.
   - Eden Bensaid, Mauro Martino, Benjamin Hoover, Hendrik Strobelt
   - Automated Story Generation, Natural Language Generation, Multimodality, Human-in-the-loop
   - 발표자: 유태우, 발표자료: \[[slides](./presentations/20211206_tw_FAIRYTALIOR_A%20Multimodal%20Generative%20Framework%20for%20Storytelling.pdf)\]
+
+* __2021-12-20: Effect Generation Based on Causal Reasoning \[[paper](https://aclanthology.org/2021.findings-emnlp.48/)\]__
+  - Feiteng Mu, Wenjie Li, Zhipeng Xie
+  - Effect Generation, Event-Level Causal Reasoning, GNN, Eventification
+  - 발표자: 조건희, 발표자료: \[[slides](./presentations/20211220_gh_Effect%20Generation%20Based%20on%20Causal%20Reasoning.pdf)\]
  
 ## Members
 [현지웅](https://github.com/kabbi159), [김현주](https://github.com/arensis-julia), [김은총](https://github.com/ianchongchong), [유태우](https://github.com/mzyt3569), [조건희](https://github.com/Gunhee-Cho), [배수영](https://github.com/BaeSuyoung)
